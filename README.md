@@ -1,4 +1,17 @@
 # CLI Dictionary
+## Main menu 
+![Main menu](https://github.com/Iguinho94CP/CLI-English-Dictionary/blob/main/menu.png)
+## Enter word option
+![Main menu](https://github.com/Iguinho94CP/CLI-English-Dictionary/blob/main/enter_word.png)
+## Word of the day
+![Main menu](https://github.com/Iguinho94CP/CLI-English-Dictionary/blob/main/word_of_the_day.png)
+## Words with pagination
+![Main menu](https://github.com/Iguinho94CP/CLI-English-Dictionary/blob/main/words.png)
+## Full description of the word's meaning
+![Main menu](https://github.com/Iguinho94CP/CLI-English-Dictionary/blob/main/full_description.png)
+## Submenu with options to UPDATE & DELETE & Go back
+![Main menu](https://github.com/Iguinho94CP/CLI-English-Dictionary/blob/main/submenu.png)
+
 
 ## Usage
 
