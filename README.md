@@ -35,11 +35,14 @@ To use the MyDict application, follow these steps:
 - The application provides a user-friendly text-based interface for interacting with words and their details.
 
 - The code is well-documented and organized into classes and methods for easy understanding and maintenance.
+  
 ## TODO
 
 - [ ] Integrate the thesaurus scraper to the main.py class
 - [ ] Implement vocabulary trainer
 - [ ] Implement vocabulary quizzes
+- [ ] Implement the UPDATE & DELETE methods
+- [ ] Implement search functionality
 
 ## Credits
 
